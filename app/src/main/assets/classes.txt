@@ -1,0 +1,4 @@
+ball
+barbell
+dumbbell
+kettlebell

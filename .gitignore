@@ -2,5 +2,6 @@
 /.gradle
 /.idea
 /.kotlin
-/app
+/app/build
+/app/release
 /opencv
